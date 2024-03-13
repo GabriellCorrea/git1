@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 mensagem do branch main
+=======
+"ola, mundo"
+
+mensagem da feature fB
+>>>>>>> fB
